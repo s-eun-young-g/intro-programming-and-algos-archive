@@ -1,6 +1,6 @@
-Assignments from earlier courses: 6.1010 (Fundamentals of Programming) and 6.1210 (Introduction to Algorithms).
+## Assignments from earlier courses: 6.1010 (Fundamentals of Programming)
 
-These projects explore interpreters, games, image/audio processing, graphs, and logical reasoning..
+These projects explore interpreters, games, image/audio processing, graphs, and logical reasoning.
 
 ### audio_processing_lab.py
 Performs basic audio processing tasks like filtering and convolution.
@@ -32,8 +32,28 @@ Calculates the cheapest way to make recipes by expanding ingredient dependencies
 ### sat_lab.py
 Solves Boolean satisfiability problems using recursive backtracking.
 
-snekoban_lab.py
+### snekoban_lab.py
 Simulates a Sokoban-style puzzle game with movement rules and win conditions.
 
-symbolic_algebra.py
+### symbolic_algebra.py
 Builds a symbolic math system that can simplify expressions and take derivatives.
+
+## Assignments from 6.1210 (Introduction to Algorithms)
+
+These programs focus on algorithms, data structures, graphs, and problem-solving fundamentals.
+
+### construct_preorder_traversal.py
+Rebuilds a binary tree’s preorder traversal from its inorder and postorder traversals.
+
+### count_paths.py
+Counts how many shortest paths exist through a grid while maximizing collected upgrades.
+
+### meeting_point.py
+Checks whether a directed graph has a node that every other node can reach.
+
+### party_hats.py
+Finds a missing number in the range [0, N] from an unsorted list.
+
+### sportsball.py
+Uses a balanced tree to track players and efficiently find the best player within a given budget.
+
